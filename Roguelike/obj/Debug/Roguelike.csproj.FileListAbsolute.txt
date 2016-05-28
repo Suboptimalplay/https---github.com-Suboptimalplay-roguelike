@@ -1,0 +1,12 @@
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\Roguelike.exe.config
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\terminal8x8.png
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\Roguelike.exe
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\Roguelike.pdb
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\OpenTK.dll
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\RLNET.dll
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\RogueSharp.dll
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\OpenTK.xml
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\bin\Debug\RogueSharp.xml
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\obj\Debug\Roguelike.csprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\obj\Debug\Roguelike.exe
+c:\users\tony\documents\visual studio 2013\Projects\Roguelike\obj\Debug\Roguelike.pdb
